@@ -1,0 +1,4 @@
+HTML -contents of the website
+CSS - styling/design
+JavaScript - allows website have functionality
+
